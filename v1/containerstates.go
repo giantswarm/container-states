@@ -1,4 +1,4 @@
-package conainerstates
+package containerstates
 
 const (
 	Deleting State = "deleting"

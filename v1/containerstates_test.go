@@ -1,4 +1,4 @@
-package conainerstates
+package containerstates
 
 import "testing"
 
