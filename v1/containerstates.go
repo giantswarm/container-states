@@ -4,7 +4,6 @@ const (
 	Deleting State = "deleting"
 	Deleted  State = "deleted"
 	Creating State = "creating"
-	Created  State = "created"
 	Starting State = "starting"
 	Up       State = "up"
 	Stopping State = "stopping"
