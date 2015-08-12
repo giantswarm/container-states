@@ -56,5 +56,5 @@ func IsStateInactive(state State) bool {
 // thus the state is not final.
 // Final states are Up, Down or Failed.
 func IsStateFinal(state State) bool {
-	return state == Failed || state == Up || state == Down
+	return state == Failed || state == Up || state == Down || state == Deleted
 }
