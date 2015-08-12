@@ -22,7 +22,6 @@ var (
 		Deleted,
 		Stopping,
 		Creating,
-		Created,
 		Starting,
 		Up,
 	}
